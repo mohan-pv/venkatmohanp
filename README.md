@@ -11,14 +11,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Java Full Stack Developer** with a knack for building robust, scalable applications. I enjoy contributing to open-source projects and constantly learning new technologies. I am dedicated to crafting efficient and high-quality code to build impactful software solutions.
+I'm a passionate **Java Developer** with a knack for building robust, scalable applications. I enjoy contributing to open-source projects and constantly learning new technologies. I am dedicated to crafting efficient and high-quality code to build impactful software solutions.
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## 🛠️ My Skills
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: space-around; width: 100%; max-width: 800px; margin-bottom: 20px;">
     <div>
       <h3>Languages</h3>
       <ul>
@@ -49,7 +49,7 @@ I'm a passionate **Java Full Stack Developer** with a knack for building robust,
     </div>
   </div>
   
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div style="display: flex; justify-content: space-around; width: 100%; max-width: 800px;">
     <div>
       <h3>Developer Tools</h3>
       <ul>
