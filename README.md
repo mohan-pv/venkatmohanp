@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Venkat+Mohan%F0%9F%91%8B;Welcome+to+my+GitHub+profile!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Mohan+PV%F0%9F%91%8B;Welcome+to+my+GitHub+profile!"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Java Developer** with a knack for building robust, scalable applications. I enjoy contributing to open-source projects and constantly learning new technologies. I am dedicated to crafting efficient and high-quality code to build impactful software solutions.
+I'm a passionate **Java Full Stack Developer** with a knack for building robust, scalable applications. I enjoy contributing to open-source projects and constantly learning new technologies. I am dedicated to crafting efficient and high-quality code to build impactful software solutions.
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
@@ -30,6 +30,7 @@ I'm a passionate **Java Developer** with a knack for building robust, scalable a
 - Swagger API, RESTful Web Services
 - JUnit, Mockito
 - Bootstrap
+- ReactJS
 
 ### Developer Tools
 - Maven
