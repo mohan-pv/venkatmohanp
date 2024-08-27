@@ -1,61 +1,61 @@
-<div style="text-align: center;"> 
+<div align="center">
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Venkat+Mohan%F0%9F%91%8B;Welcome+to+my+GitHub+profile!"/>
 </div>
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/_mohan_pv)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohan-pv)
-
-![Profile Views](https://komarev.com/ghpvc/?username=venkatmohanp)
-
-<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
-## About Me
-
-I'm a passionate Java developer with experience in building robust applications. I love working on open-source projects and contributing to the community. I'm always looking for ways to make my developer workflow more efficient and build high-performance applications.
-
-<p>Fun fact: I CODE in Binary: 01000011 01001111 01000100 01000101 </p>
+<div align="center">
+  <a href="https://x.com/_mohan_pv"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/mohan-pv"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+</div>
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-## Technologies & Tools
+## 👨‍💻 About Me
 
-<table>
-<tr>
-	<td><strong>Languages</strong></td>
-	<td><strong>Frameworks</strong></td>
-</tr>
-<tr>
-	<td><img src="https://skillicons.dev/icons?i=java,sql,html,css,js,cpp"></td>
-	<td><img src="https://skillicons.dev/icons?i=spring,hibernate,swagger"></td>
-</tr>
-<tr>
-	<td><strong>Developer Tools</strong></td>
-	<td><strong>Libraries</strong></td>
-</tr>
-<tr>
-	<td><img src="https://skillicons.dev/icons?i=maven,git,jenkins,docker"></td>
-	<td><img src="https://skillicons.dev/icons?i=jwt,jquery,ajax&theme=dark"></td>
-</tr>
-</table>
+I'm a passionate **Java Developer** with a knack for building robust, scalable applications. I enjoy contributing to open-source projects and constantly learning new technologies. I am dedicated to crafting efficient and high-quality code to build impactful software solutions.
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-## GitHub Trophies
+## 🛠️ My Skills
 
-![](https://github-profile-trophy.vercel.app/?username=venkatmohanp&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+### Languages
+- Java
+- SQL
+- HTML, CSS, JavaScript
+- C++
+
+### Frameworks
+- Spring Boot, Spring MVC, Spring Security, Spring Cloud
+- Hibernate/JPA
+- Jakarta EE
+- Swagger API, RESTful Web Services
+- JUnit, Mockito
+- Bootstrap
+
+### Developer Tools
+- Maven
+- Git, SVN
+- Jenkins
+- Docker
+- Twilio
+- CI/CD
+- Burp Suite
+
+### Libraries
+- JSON Web Token (JWT)
+- JavaServer Pages (JSP)
+- JDBC
+- jQuery, AJAX
+- Cron
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-## GitHub Stats
+## 📄 View My Resume
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=venkatmohanp&theme=midnight-purple&show_icons=true" alt="Venkat Mohan's GitHub stats">
-<img src="https://streak-stats.demolab.com/?user=venkatmohanp&theme=holi-theme" alt="Venkat Mohan's GitHub streak">
-</p>
+<div align="center">
+  <a href="https://drive.google.com/file/d/16ujXDPoXt5vbwZcN6KIGuJ4YM2maI7K8/view?usp=sharing">
+    <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&color=2AF7B4&width=600&lines=Check+Out+My+Resume;Explore+My+Professional+Journey"/>
+  </a>
+</div>
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
-## 📄 Resume
-
-You can view my resume [here](https://drive.google.com/file/d/16ujXDPoXt5vbwZcN6KIGuJ4YM2maI7K8/view?usp=sharing).
 
