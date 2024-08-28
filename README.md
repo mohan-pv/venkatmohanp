@@ -21,7 +21,7 @@ I'm a passionate **Java Full Stack Developer** with a knack for building robust,
 - Java
 - SQL
 - HTML, CSS, JavaScript
-- C++
+- Basics of C++ and Golang.
 
 ### Frameworks
 - Spring Boot, Spring MVC, Spring Security, Spring Cloud
